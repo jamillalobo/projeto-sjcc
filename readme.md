@@ -1,8 +1,8 @@
 ## Backend SJCC
 
-### Descricao
+### Descrição
 
-### Design da aplicacao
+### Design da aplicação
 ```
 /src
 │   app.js               # Servidor Node.js
