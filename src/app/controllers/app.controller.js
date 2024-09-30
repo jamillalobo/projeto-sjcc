@@ -1,5 +1,5 @@
 class AppController {
-    constructor() {}
+    // constructor() {}
 
     searchByKeyWord(req, res) {
         res.send("Criacao de palavras chave com sucesso!")
